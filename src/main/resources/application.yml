@@ -1,0 +1,6 @@
+server:
+  port: 8085
+
+ext:
+  allUserGetUrl: http://localhost:8080/allusers
+  userUrl: http://localhost:8080/getuser
